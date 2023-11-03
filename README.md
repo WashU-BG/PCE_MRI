@@ -12,5 +12,5 @@ Contains code for the paper "Prenatal cannabis exposure is associated with local
 
 ## 3. Parse/plot
 1. parse_prenatal_output.R - Compute corrected p-values
-2. prenatal_mri_figure.R - Figueres 1 & 3
-3. pce_manhattan_plot2.R - Figure 2
+2. prenatal_mri_figure.R - Figueres 2 & 3
+3. pce_manhattan_plot2.R - Figure 1
