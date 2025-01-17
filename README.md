@@ -1,5 +1,5 @@
 # PCE_MRI
-Contains code for the paper "Prenatal cannabis exposure is associated with localized brain differences that partially mediate associations with increased adolescent psychopathology"  https://doi.org/10.1101/2023.09.19.23295792 
+Contains code for the paper "Prenatal cannabis exposure, the brain, and psychopathology during early adolescence"  [https://doi.org/10.1101/2023.09.19.23295792](https://doi.org/10.1038/s44220-024-00281-7) 
 
 ## 1. Setup data for analysis
 1. clean_merge_v5.R
